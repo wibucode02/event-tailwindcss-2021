@@ -1,6 +1,8 @@
 # 🎉 event-tailwindcss-2021
 Daftar submission event Tailwindcss 2021
 
+![img](event.png)
+
 
 <br>
 
