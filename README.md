@@ -69,6 +69,7 @@ Dibuat pakai:
 - Tailwind JIT
 
 web: https://pragusga.com/
+
 repo: https://github.com/pragusga25/pou
 
 
@@ -85,6 +86,7 @@ Stack :
 -Midtransa (payment gateway)
 
 Link Website : https://grandonkmerch.vercel.app/
+
 Link Repository : https://github.com/grandonk666/next-ecommerce
 
 
@@ -99,6 +101,7 @@ Stack:
 -Tailwind CSS
 
 Link website: https://4reality-reborn.vercel.app/
+
 Link repo: https://github.com/NikarashiHatsu/4reality-reborn
 
 
@@ -116,6 +119,7 @@ stack:
 - Firebase Hosting
 
 Link: https://kodekembar.web.app/
+
 Repo: https://github.com/ricko-v/kodekembar
 
 
