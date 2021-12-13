@@ -1,5 +1,5 @@
 # 🎉 event-tailwindcss-2021
-Daftar submission event Tailwindcss 2021
+Daftar submission event TailwindCSS 2021
 
 ![img](event.png)
 
@@ -126,5 +126,16 @@ Repo: https://github.com/ricko-v/kodekembar
 
 
 
+<br>
+
+___
+
+<br>
+
+# 🎉 Daftar 3 Pemenang Event TailwindCSS
+
+### 1.Huda Damar
+### 2.menghatsu
+### 3.rizal_grandonk
 
 
